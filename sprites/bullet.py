@@ -1,8 +1,5 @@
-import pygame
-from pygame.sprite import Sprite
-
-from space_shooter.config import *
-from space_shooter.sprites.game_sprite import GameSprite
+from config import *
+from sprites.game_sprite import GameSprite
 
 
 class Bullet(GameSprite):

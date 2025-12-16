@@ -2,9 +2,9 @@ import random
 
 import pygame
 
-from space_shooter.config import *
+from config import *
 
-from space_shooter.sprites.game_sprite import GameSprite
+from sprites.game_sprite import GameSprite
 
 
 class Enemy(GameSprite):

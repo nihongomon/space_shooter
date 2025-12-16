@@ -3,9 +3,9 @@ import random
 
 import pygame
 
-from space_shooter.config import *
-from space_shooter.sprites.enemy import Enemy
-from space_shooter.sprites.player import Player
+from config import *
+from sprites.enemy import Enemy
+from sprites.player import Player
 
 
 class GameManager:

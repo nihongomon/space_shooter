@@ -1,6 +1,5 @@
-from space_shooter.game import GameManager
+from game import GameManager
 
 if __name__ == '__main__':
     game = GameManager()
     game.run()
-
