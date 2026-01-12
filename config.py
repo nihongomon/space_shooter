@@ -1,5 +1,5 @@
 # Configuration Constants
-SCREEN_WIDTH = 480
+SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 FPS = 60
 # Game Parameters
